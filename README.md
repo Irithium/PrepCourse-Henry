@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de Prueba para Prepcourse de Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github y editarlo
+Irithium.
